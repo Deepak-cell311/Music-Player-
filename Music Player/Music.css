@@ -76,9 +76,6 @@ img{
      cursor: pointer;
      filter: drop-shadow(0 1.2rem 3rem 0.5rem rgba(0,0,0,0.4));
 }
-/* .music_controls .fa-solid:hover{
-     color: white;
-} */
 .music_container .main-button{
      width: 5rem;
      height: 5rem;
@@ -98,15 +95,6 @@ img{
 .anime{
      animation: rotatePlayer 2s linear infinite ;
 }
-/* @keyframes rotatePlayer {
-     from{
-          transform: rotate(0deg);
-     }
-     to{
-          transform: rotate(360deg );
-     }
-} */
-
 .progress_container{
      width: 100%;
      height: auto;
